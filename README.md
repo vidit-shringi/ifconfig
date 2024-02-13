@@ -6,3 +6,7 @@
 2.) cd vscpuinfo
 3.) ls
 4.) python excute.py
+# first this 
+chmod +x install.sh
+# second this 
+./install.sh
